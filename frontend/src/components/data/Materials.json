@@ -1,0 +1,42 @@
+[
+ {
+  "Symbol": "GOLD",
+  "Name": "Barrick Gold Corporation",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "FNV",
+  "Name": "Franco-Nevada Corporation",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "AEM",
+  "Name": "Agnico Eagle Mines Limited",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "WPM",
+  "Name": "Wheaton Precious Metals Corp.",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "TECK",
+  "Name": "Teck Resources Ltd",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "AAU",
+  "Name": "Almaden Minerals Ltd.",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "EXN",
+  "Name": "Excellon Resources Inc.",
+  "Sector": "Materials"
+ },
+ {
+  "Symbol": "GAU",
+  "Name": "Galiano Gold Inc.",
+  "Sector": "Minerals"
+ }
+]

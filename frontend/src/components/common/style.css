@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,300;0,400;1,100;1,300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    padding: 20px 0px 20px 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h5{
+    font-size: 14pt !important;
+}
+
+h6 a {
+    text-decoration: none;
+    color: #000;
+}
+
+h6 a:hover {
+    text-decoration: underline;
+    color: #37804D;
+}
+
+.p-85{
+    padding: 85px;
+}
+
+.main-nav{
+    padding: 8px 10px 0px 10px;
+    margin-right: 25px; 
+    color: #FFF !important;
+    font-family: 'Oswald', sans-serif;
+    text-decoration:  none;
+}
+
+.branding{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 50px;
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;  
+}
+
+.branding label{
+    font-size: 20px !important;
+    font-weight: 700;
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;  
+}
+
+.sub-nav{
+    color: black;
+    font-size: 12pt;
+    font-family: 'Oswald', sans-serif;  
+}
+
+.nav-bt{
+    margin-right: 10px;
+    font-size: 11pt;
+}
+
+.atag{
+    font-size: 25pt;
+    color: #000;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;  
+}
+
+.p-text{
+    font-size: 11pt;
+    line-height: 1.6em;
+}
+
+.title-btm-10{
+    padding-bottom: 10px;
+}
+
+.pd-btm-10{
+    padding-bottom: 10px;
+}
+
+.mr-50{
+    margin-right: 50px;
+}
+
+.bt-space-1{
+    margin-right: 10px;
+}
+
+.bt-space-2{
+    margin-right: 20px;
+}
+
+.scanner-tbl{
+    width: 95%;
+}
+
+.green{
+    color: #37804D;
+}
+
+.red{
+    color: #E53935;
+}
+
+.blue{
+    color: #00B0FF;
+}
+
+.insights{
+    padding-right: 30px;
+    padding-top: 15px;
+    border-right: 1px solid #E4E4E4;
+}
+
+.ac-bt{
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;  
+    margin-right: 15px;
+}
+
+.formlabel{
+    font-family: 'Oswald', sans-serif;  
+}
+
+.ac-bt:hover{
+    color: #FFF;
+}
+
+.float-right{
+    float: right !important;
+}
+
+.tab-title{
+    font-family: 'Oswald', sans-serif;  
+    color: #000 !important;
+}
+
+.nav-tabs .nav-link{
+    color: #000 !important;
+}
+
+.nav-tabs .nav-link.active{
+    color: #37804D !important;
+}
+
+.alert-hidden {
+    opacity: 0;
+    transition: all 150ms linear 1s;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-active{
+    display: block;
+    color: #FFF !important;
+}
+
+.acc-nav a{
+    text-decoration: none;
+    padding: 8px 10px;
+}
+
+.sub-navigation{
+    padding: 10px 10px 10px 20px;
+}
+
+.sub-navigation a{
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.sub-navigation a:hover{ 
+    color: #37804D !important;
+}
+
+.bt-sm{
+    font-size: 10pt;
+}
+
+a.branding{
+    text-decoration: none !important;
+}
+
+a.branding:hover, a.branding span:hover{ 
+    color: #37804D !important;
+}
+
+a.branding span{
+    font-size: 19px;
+    font-weight: 700;
+    margin-right: 50px;
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none !important;
+}
+
+.spinner{
+    position: fixed;
+    top: 40%;
+    left: 45%;
+    text-align: center;
+}
+
+.spinner p{
+    margin-top: 10px;
+    font-size: 10pt;
+    color: #B2B2B2;
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,68 @@
+[
+    {  
+       "ID" : "1",
+       "name" : "Communication",
+       "label" : "Communication",
+       "json": "Communication.json"
+    },
+    {   
+        "ID" : "2",
+        "name" : "Consumer Discretionary",
+        "label" : "ConsumerDiscretionary", 
+        "json": "ConsumerDiscretionary.json"
+    },
+    {   
+        "ID" :  "3", 
+        "name" : "ConsumerStaples",
+        "label" : "ConsumerStaples",
+        "json": "ConsumerStaples.json"
+    },
+    {   
+        "ID" :  "4", 
+        "name" : "Energy",
+        "label" : "Energy",
+        "json": "Energy.json"
+    },
+    {   
+        "ID" :  "5",    
+        "name" : "Financial",
+        "label" : "Financial",
+        "json": "Financial.json"
+    },
+    {   
+        "ID" :  "6", 
+        "name" : "Health Care ",
+        "label" : "HealthCare",
+        "json": "HealthCare.json"
+    },
+    {   
+        "ID" :  "7",
+        "name" : "Industry",
+        "label" : "Industry", 
+        "json": "Industry.json"
+    },
+    {   
+        "ID" :  "8",
+        "name" : "Materials",
+        "label" : "Materials",
+        "json": "Materials.json"
+    },
+    {   
+        "ID" :  "9",
+        "name" : "Real Estate",
+        "label" : "Realestate",
+        "json": "Realestate.json"
+    },
+    {   
+        "ID" :  "10",
+        "name" : "Technology",
+        "label" : "Technology", 
+        "json": "Technology.json"
+    },
+    {   
+        "ID" :  "11",
+        "name" : "Utilities",
+        "label" : "Utilities", 
+        "json": "Utilities.json"
+    }
+]    

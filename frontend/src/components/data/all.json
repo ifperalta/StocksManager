@@ -1,0 +1,522 @@
+[
+ {
+  "Symbol": "BCE",
+  "Name": "BCE, Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BCE",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Communication Services"
+ },
+ {
+  "Symbol": "TU",
+  "Name": "Telus Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:T",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Communication Services"
+ },
+ {
+  "Symbol": "RCI",
+  "Name": "Rogers Communication",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:RCI-B",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Communication Services"
+ },
+ {
+  "Symbol": "MGA",
+  "Name": "Magna International",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:MG",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Discretionary"
+ },
+ {
+  "Symbol": "QSR",
+  "Name": "Restaurant Brands International Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:QSR",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Discretionary"
+ },
+ {
+  "Symbol": "SJR",
+  "Name": "Shaw Communications Inc. (Class B)",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:SJR-B",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Discretionary"
+ },
+ {
+  "Symbol": "HBM",
+  "Name": "Hudbay Minerals Inc",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:HBM",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Discretionary"
+ },
+ {
+  "Symbol": "GOOS",
+  "Name": "Canada Goose Holdings Inc. Subordinate Voting Shares",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:GOOS",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Discretionary"
+ },
+ {
+  "Symbol": "OR",
+  "Name": "Osisko Gold Royalties Ltd",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:OR",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "STKL",
+  "Name": "Sunopta Inc",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:SOY",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "VFF",
+  "Name": "Village Farms International, Inc.",
+  "U.S. Exchange": "NASDAQ Capital Market",
+  "Cross-list symbol": "CT:VFF",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "BRCN",
+  "Name": "Burcon NutraScience Corp",
+  "U.S. Exchange": "NASDAQ Capital Market",
+  "Cross-list symbol": null,
+  "Cross-list exchange": null,
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "AGRI",
+  "Name": "AgriFORCE  Growing Systems Ltd.",
+  "U.S. Exchange": "NASDAQ Capital Market",
+  "Cross-list symbol": null,
+  "Cross-list exchange": null,
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "VGFC",
+  "Name": "The Very Good Food Company Inc.",
+  "U.S. Exchange": "NASDAQ Capital Market",
+  "Cross-list symbol": null,
+  "Cross-list exchange": null,
+  "GICS Sector": "Consumer Staples"
+ },
+ {
+  "Symbol": "ENB",
+  "Name": "Enbridge Inc",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:ENB",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "CNQ",
+  "Name": "Canadian Natural Resources Limited",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CNQ",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "TRP",
+  "Name": "TransCanada Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TRP",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "SU",
+  "Name": "Suncor Energy  Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:SU",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "CVE",
+  "Name": "Cenovus Energy Inc",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CVE",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "IMO",
+  "Name": "Imperial Oil Limited",
+  "U.S. Exchange": "NYSE American",
+  "Cross-list symbol": "CT:IMO",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Energy"
+ },
+ {
+  "Symbol": "RY",
+  "Name": "Royal Bank Of Canada",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:RY",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "TD",
+  "Name": "The Toronto-Dominion Bank",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TD",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "BAM",
+  "Name": "Brookfield Asset Management Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BAM-A",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "BNS",
+  "Name": "The Bank Of Nova Scotia",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BNS",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "BMO",
+  "Name": "Bank Of Montreal",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BMO",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "CM",
+  "Name": "Canadian Imperial Bank Of Commerce",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CM",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "MFC",
+  "Name": "Manulife Financial Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:MFC",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "SLF",
+  "Name": "Sun Life Financial Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:SLF",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Financials"
+ },
+ {
+  "Symbol": "BHC",
+  "Name": "Bausch Health Companies Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BHC",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Health Care"
+ },
+ {
+  "Symbol": "CGC",
+  "Name": "Canopy Growth Corporation",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:WEED",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Health Care"
+ },
+ {
+  "Symbol": "TLRY",
+  "Name": "Tilray, Inc. - Class 2",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:TLRY",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Health Care"
+ },
+ {
+  "Symbol": "ABCL",
+  "Name": "AbCellera Biologics Inc.",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": null,
+  "Cross-list exchange": null,
+  "GICS Sector": "Health Care"
+ },
+ {
+  "Symbol": "AUPH",
+  "Name": "Aurinia Pharmaceuticals Inc",
+  "U.S. Exchange": "NASDAQ Global Market",
+  "Cross-list symbol": "CT:AUP",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Health Care"
+ },
+ {
+  "Symbol": "CNI",
+  "Name": "Canadian National Railway Company",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CNR",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "CP",
+  "Name": "Canadian Pacific Railway Limited",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CP",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "TRI",
+  "Name": "Thomson Reuters Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TRI",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "WCN",
+  "Name": "Waste Connections Inc",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:WCN",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "GFL",
+  "Name": "GFL Environmental Inc. Subordinate voting shares",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:GFL",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "TFII",
+  "Name": "TFI International Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TFII",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "CAE",
+  "Name": "CAE Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:CAE",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Industrials"
+ },
+ {
+  "Symbol": "SHOP",
+  "Name": "Shopify Inc. Class A",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:SHOP",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information Technology"
+ },
+ {
+  "Symbol": "GIB",
+  "Name": "CGI Group",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:GIB-A",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information Technology"
+ },
+ {
+  "Symbol": "OTEX",
+  "Name": "Open Text Corporation",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:OTEX",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information technology"
+ },
+ {
+  "Symbol": "DSGX",
+  "Name": "The Descartes Systems Group Inc.",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:DSG",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information Technology"
+ },
+ {
+  "Symbol": "NVEI",
+  "Name": "Nuvei Corporation",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:NVEI",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information Technology"
+ },
+ {
+  "Symbol": "LSPD",
+  "Name": "Lightspeed POS Inc. Subordinate Voting Shares",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:LSPD",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Information Technology"
+ },
+ {
+  "Symbol": "NTR",
+  "Name": "Nutrien Ltd.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:NTR",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "GOLD",
+  "Name": "Barrick Gold Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:ABX",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "FNV",
+  "Name": "Franco-Nevada Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:FNV",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "AEM",
+  "Name": "Agnico Eagle Mines Limited",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:AEM",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "WPM",
+  "Name": "Wheaton Precious Metals Corp.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:WPM",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "TECK",
+  "Name": "Teck Resources Ltd",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TECK-B",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "AAU",
+  "Name": "Almaden Minerals Ltd.",
+  "U.S. Exchange": "NYSE American",
+  "Cross-list symbol": "CT:AMM",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "EXN",
+  "Name": "Excellon Resources Inc.",
+  "U.S. Exchange": "NYSE American",
+  "Cross-list symbol": "CT:EXN",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Materials"
+ },
+ {
+  "Symbol": "GAU",
+  "Name": "Galiano Gold Inc.",
+  "U.S. Exchange": "NYSE American",
+  "Cross-list symbol": null,
+  "Cross-list exchange": null,
+  "GICS Sector": "Minerals"
+ },
+ {
+  "Symbol": "FSV",
+  "Name": "Firstservice Corporation",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:FSV",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Real Estate"
+ },
+ {
+  "Symbol": "CIGI",
+  "Name": "Colliers International Group Inc.",
+  "U.S. Exchange": "NASDAQ Global Select",
+  "Cross-list symbol": "CT:CIGI",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Real Estate"
+ },
+ {
+  "Symbol": "TCN",
+  "Name": "Tricon Residential Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TCN",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Real Estate"
+ },
+ {
+  "Symbol": "REAX",
+  "Name": "The Real Brokerage, Inc.",
+  "U.S. Exchange": "NASDAQ Capital Market",
+  "Cross-list symbol": "CV:REAX",
+  "Cross-list exchange": "TSX Venture Exchange",
+  "GICS Sector": "Real Estate"
+ },
+ {
+  "Symbol": "FTS",
+  "Name": "Fortis Inc.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:FTS",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ },
+ {
+  "Symbol": "BEP",
+  "Name": "Brookfield Renewable Partners L.P.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BEPC",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ },
+ {
+  "Symbol": "AQN",
+  "Name": "Algonquin Power & Utilities Corp.",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:AQN",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ },
+ {
+  "Symbol": "BEPC",
+  "Name": "Brookfield Renewable Corporation Class A",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BEPC",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ },
+ {
+  "Symbol": "BIPC",
+  "Name": "Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:BIPC",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ },
+ {
+  "Symbol": "TAC",
+  "Name": "TransAlta Corporation",
+  "U.S. Exchange": "New York Stock Exchange",
+  "Cross-list symbol": "CT:TA",
+  "Cross-list exchange": "Toronto Stock Exchange",
+  "GICS Sector": "Utilities"
+ }
+]

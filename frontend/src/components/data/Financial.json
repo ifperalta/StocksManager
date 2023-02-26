@@ -1,0 +1,37 @@
+[
+ {
+  "Symbol": "TD",
+  "Name": "The Toronto-Dominion Bank",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "BAM",
+  "Name": "Brookfield Asset Management Inc.",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "BNS",
+  "Name": "The Bank Of Nova Scotia",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "BMO",
+  "Name": "Bank Of Montreal",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "CM",
+  "Name": "Canadian Imperial Bank Of Commerce",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "MFC",
+  "Name": "Manulife Financial Corporation",
+  "Sector": "Financials"
+ },
+ {
+  "Symbol": "SLF",
+  "Name": "Sun Life Financial Inc.",
+  "Sector": "Financials"
+ }
+]

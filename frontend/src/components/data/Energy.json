@@ -1,0 +1,27 @@
+[
+ {
+  "Symbol": "CNQ",
+  "Name": "Canadian Natural Resources Limited",
+  "Sector": "Energy"
+ },
+ {
+  "Symbol": "TRP",
+  "Name": "TransCanada Corporation",
+  "Sector": "Energy"
+ },
+ {
+  "Symbol": "SU",
+  "Name": "Suncor Energy  Inc.",
+  "Sector": "Energy"
+ },
+ {
+  "Symbol": "CVE",
+  "Name": "Cenovus Energy Inc",
+  "Sector": "Energy"
+ },
+ {
+  "Symbol": "IMO",
+  "Name": "Imperial Oil Limited",
+  "Sector": "Energy"
+ }
+]
