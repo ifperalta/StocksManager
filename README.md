@@ -34,7 +34,3 @@ To run the app locally, follow these steps:
 
 ### Note: 
 This sample code does not connect to a stocks data source. 
-
-## Demo
-<img src="https://raw.githubusercontent.com/ifperalta/StocksManager/master/frontend/demo-v2.gif" width="600">
-
