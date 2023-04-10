@@ -28,7 +28,7 @@ To run the app locally, follow these steps:
 - Run the front end by "run npm start" to start the frontend server
 - Run the backend by "npm run dev" to start the backend server
 
-##Usage
+## Usage
 - Once the app is running, navigate to http://localhost:3000 in your web browser to access the frontend dashboard. 
 - Open the backend service running in port 8000 - http://localhost:8000/. A response of "Hey!" will appear. 
 From there, you can register to create an account and manage a portfolio, use the stock scanner, and view stock research.
