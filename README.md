@@ -31,7 +31,9 @@ To run the app locally, follow these steps:
 ## Usage
 - Once the app is running, navigate to http://localhost:3000 in your web browser to access the frontend dashboard. 
 - Open the backend service running in port 8000 - http://localhost:8000/ then a response of "Hey!" will appear. 
-From there, you can register to create an account and manage a portfolio, use the stock scanner, and view stock research.
+
+### Note: 
+This sample code does not connect to a data source. 
 
 ## Demo
 <!-- Demo https://vimeo.com/802498892 -->
