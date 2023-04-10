@@ -36,6 +36,4 @@ To run the app locally, follow these steps:
 This sample code does not connect to a stocks data source. 
 
 ## Demo
-<!-- 
-<img src="https://raw.githubusercontent.com/ifperalta/BugTrackerv1.0/master/src/Chrome-Demo.gif" width="600">
- -->
+<img src="https://raw.github.com/ifperalta/StocksManager/blob/master/frontend/demo-v2.gif)" width="600">
