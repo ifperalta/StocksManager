@@ -33,7 +33,7 @@ To run the app locally, follow these steps:
 - Open the backend service running in port 8000 - http://localhost:8000/ then a response of "Hey!" will appear. 
 
 ### Note: 
-This sample code does not connect to a data source. 
+This sample code does not connect to a stocks data source. 
 
 ## Demo
 <!-- Demo https://vimeo.com/802498892 -->
